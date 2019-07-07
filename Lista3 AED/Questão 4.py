@@ -1,0 +1,5 @@
+a = int(input("Digite o valor do cateto a: "))
+b = int(input("Digite o valor do cateto b: "))
+hipotenusa = (a ** 2) + (b ** 2)
+print("A hipotenusa é " + str(hipotenusa))
+print("-------------------------Obrigado por usar meu programa! :)-------------------------")
